@@ -1,0 +1,13 @@
+{
+  "name": "nutty-body",
+  "version": "0.0.1",
+  "description": "Capture text piped from stdin",
+  "main": "index.js",
+  "repository": { "type": "git", "url": "https://github.com/nuttyjs/nutty-body.git" },
+  "keywords": [ "nutty", "stdin" ],
+  "author": "Josemi Juanes <josemijuanes@gmail.com>",
+  "homepage": "https://github.com/nuttyjs/nutty-body",
+  "license": "MIT",
+  "dependencies": { },
+  "devDependencies": { "nutty": "0.2.3" }
+}
